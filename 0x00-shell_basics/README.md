@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo "The first script is the begining of every bash program\n"
-
-echo "The second script lists the contents of your working directory"
+echo "The first script is the begining of every bash program"
+echo "The second script prints the path name of the working directory"
+echo " The third script lists the contents of your working directory"
+echo "The forth script changes the working directory to the home directory"
